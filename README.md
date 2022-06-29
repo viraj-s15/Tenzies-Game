@@ -1,3 +1,12 @@
+
+
+![tenzies game](https://user-images.githubusercontent.com/79002760/176415476-91c55b28-d5bf-470e-a427-62884ab2a608.png)
+
+## How it looks when one wins
+
+![tenzies game won](https://user-images.githubusercontent.com/79002760/176415566-4a0f03ae-b428-43e9-85e3-da96757fe0af.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
