@@ -1,0 +1,29 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+:root {
+  --text-bg-colour: rgb(9, 81, 95);
+  --title-font: "Roboto", sans-serif;
+  --description-font: "Nunito", sans-serif;
+}
+
+.individual--grid {
+  font-family: var(--description-font);
+  background-color: var(--text-bg-colour);
+  border-radius: 1.5rem;
+  cursor: pointer;
+  color: aliceblue;
+  border: 1px solid aliceblue;
+}
+
+.individual--grid:hover {
+  color: aliceblue;
+  border-color: var(--text-bg-colour);
+}
+
+.grid--number {
+  font-family: var(--description-font);
+}
