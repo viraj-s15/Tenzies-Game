@@ -77,7 +77,7 @@ const Main = () => {
           current value between rolls.
         </p>
         <div className='grid--container'>{gridElements}</div>
-        <button className='change--num' onCl ick={newNums}>
+        <button className='change--num' onClick={newNums}>
           {won ? "New Game" : "Roll"}
         </button>
       </div>
